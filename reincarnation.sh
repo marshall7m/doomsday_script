@@ -63,4 +63,5 @@ conda install -c conda-forge selenium
 
 # configure github account
 
-
+git config --global user.name "marshall7m"
+git config --global email 
